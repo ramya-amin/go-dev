@@ -1,2 +1,2 @@
-# go-dev
+# webdev in go
 Go projects | Learning Go 
